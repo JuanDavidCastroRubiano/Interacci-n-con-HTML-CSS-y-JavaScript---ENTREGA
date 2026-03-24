@@ -2,9 +2,9 @@
 
 body {
 
-    font-family: Arial, sans-serif;
+    font-family: sans-serif;
     text-align: center;
-    margin-top: 250px;
+    margin-top: 150px;
 
 }
 
@@ -12,7 +12,7 @@ h1 {
 
     font-size: 1.8rem;    
     margin-bottom: 8px;  
-    color: #aafe9b;  
+    color: #12410a;  
 
 }
 
@@ -20,7 +20,7 @@ h1 {
 
     font-size: 40px;
     margin: 20px;
-    color: #38cef3;
+    color: #0c6378;
 }
 
 button {
@@ -30,4 +30,13 @@ button {
     margin: 5px;
     cursor: pointer;
     color: #3314e2;
+}
+#contenedor {
+    background: rgb(243, 70, 7);
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    margin: auto;
 }
