@@ -1,0 +1,33 @@
+
+
+body {
+
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 250px;
+
+}
+
+h1 {
+
+    font-size: 1.8rem;    
+    margin-bottom: 8px;  
+    color: #aafe9b;  
+
+}
+
+#numero {
+
+    font-size: 40px;
+    margin: 20px;
+    color: #38cef3;
+}
+
+button {
+
+    padding: 10px;
+    font-size: 18px;
+    margin: 5px;
+    cursor: pointer;
+    color: #3314e2;
+}
