@@ -1,8 +1,6 @@
 let contador = 0;
 
 
-// Funcion para sumar
-
 function sumar() {
 
     contador = contador + 1;
@@ -11,8 +9,6 @@ function sumar() {
 
 }
 
-
-// Funcion para restar
 
 function restar() {
 
